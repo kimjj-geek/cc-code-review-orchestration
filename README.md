@@ -595,3 +595,7 @@ This document contains exported logs from running this repository’s code revie
      • Total Findings: 34 (after 1 rejection)
      • Agreed: 9 | Master Verdict: 6 | Rejected: 1
 ```
+
+## License
+MIT
+
